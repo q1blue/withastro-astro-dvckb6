@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "astro": "^1.6.0",
-    "preact": "^10.7.3",
+    "preact": "^10.11.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "@astrojs/react": "^1.2.1",
